@@ -12,8 +12,8 @@
   overflow: hidden;
   height: 680px;
   width: 100%;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(img/net4.jpg);
+  background-image:linear-gradient(to top, rgba(0, 0, 0, 0.8) 10%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.8) 90%),
+  url(img/net4.jpg);
 }
 .vertical-l {
   border: none;
